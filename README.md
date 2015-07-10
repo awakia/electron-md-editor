@@ -4,13 +4,19 @@ https://github.com/seanchas116/electron-md-editor
 
 ## Docs
 
-docs/electron-app.pdf
+[slide](docs/electron-app.pdf)
 
 ## Getting Started
 
 ```
 brew install node
 npm install -g electron-prebuilt
+```
+
+## Run
+
+```
+electron .
 ```
 
 ## Packaging
